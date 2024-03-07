@@ -1,6 +1,7 @@
 A smart contract ecosystem network composed of a bunch of RGB supernodes connected to the Lightning Network.
 
-Core product - RGB supernodes capable of running smart contracts and interfacing with the Lightning Network.
+Core product
+- RGB supernodes capable of running smart contracts and interfacing with the Lightning Network.
 
 Node Genesis 1.0
 - Key Feature 1 - Asset Iaunch
