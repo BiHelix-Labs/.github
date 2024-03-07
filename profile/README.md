@@ -1,10 +1,7 @@
-Optimized nodes constructed in conjunction with the #RGB + #LightningNetwork.
+A smart contract ecosystem network composed of a bunch of RGB supernodes connected to the Lightning Network. Core product - RGB supernodes capable of running smart contracts and interfacing with the Lightning Network.
 
-Main Features:
-- Supports RGB protocol v0.11 Beta 4 (Latest Version);
-- Efficiency Multi-Transfer implementation of RGB v0.11;
-- Extended indexes and database storage for improved performance of RGB transaction data;
-- Improved database for fetch the amount of RGB asset by address;
-- Testnet transfer issue fixed;
-
-[Assets CLI]: https://github.com/BiHelix-Labs/bihelix-rgb-cli
+Node Genesis 1.0
+- Node Genesis 1.0
+- Key Feature 1 - Asset Iaunch
+- Key Feature 2 - Wallet SDK
+- Key Feature 3 - Full support for RGB protocol v0.11 Beta 4 (the current latest version)
