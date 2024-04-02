@@ -1,4 +1,4 @@
-A smart contract ecosystem network composed of a bunch of RGB supernodes connected to the Lightning Network.
+BiHelix is a smart contract network ecosystem composed of a bunch of RGB super-nodes connected to the Lightning Network.
 
 Core product
 - RGB supernodes capable of running smart contracts and interfacing with the Lightning Network.
