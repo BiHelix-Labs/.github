@@ -6,4 +6,4 @@ Core product
 Node Genesis 1.0
 - Key Feature 1 - Asset Iaunch
 - Key Feature 2 - Wallet SDK
-- Key Feature 3 - Full support for RGB protocol v0.11 Beta 4 (the current latest version)
+- Key Feature 3 - Full support for RGB protocol v0.11 Beta 6 (the current latest version)
